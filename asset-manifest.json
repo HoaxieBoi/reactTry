@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HoaxieBoi/reactTry/static/css/main.c05e9630.css",
+    "main.js": "/HoaxieBoi/reactTry/static/js/main.9f5ab208.js",
+    "index.html": "/HoaxieBoi/reactTry/index.html",
+    "main.c05e9630.css.map": "/HoaxieBoi/reactTry/static/css/main.c05e9630.css.map",
+    "main.9f5ab208.js.map": "/HoaxieBoi/reactTry/static/js/main.9f5ab208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05e9630.css",
+    "static/js/main.9f5ab208.js"
+  ]
+}
